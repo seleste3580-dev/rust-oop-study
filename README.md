@@ -1,5 +1,6 @@
-# rust-oop-study
+# Rust OOP
 
-![Rust Logo](https://www.rust-lang.org/static/images/rust-logo-blurred.svg)
+![Official Rust Logo](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
 
-*Logo from seleste3580-dev*
+A simple **Rust OOP** practice project for working with student records.
+
